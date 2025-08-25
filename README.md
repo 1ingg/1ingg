@@ -3,8 +3,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue&perline=4" alt="skills">
 </div>
 
----
-
 ## 📊 GitHub 统计
 
 <div align="center">
