@@ -1,6 +1,6 @@
 ## 🌌 技术栈
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,mysql,sqllite&perline=4" alt="skills">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,vue,mysql,linux&perline=4" alt="skills">
 </div>
 
 ## 📊 GitHub 统计
